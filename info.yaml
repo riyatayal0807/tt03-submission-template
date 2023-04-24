@@ -24,11 +24,11 @@ documentation:
   description:  "7-bit Johnson Counter"      # Short description of what your project does
 
 # Longer description of how the project works. You can use standard markdown format.
-  how_it_works: Using clock we are |providing inputs to D flip flop and getting our outputs using seven segment display
+  how_it_works: Using clock we are providing inputs to D flip flop and getting our outputs using seven segment display
      
 
 # Instructions on how someone could test your project, include things like what buttons do what and how to set the clock if needed
-  how_to_test:  |Using clock we are |providing inputs to D flip flop and getting our outputs using seven segment display
+  how_to_test:  |Using clock we are providing inputs to D flip flop and getting our outputs using seven segment display
      
 
 # A description of what the inputs do
